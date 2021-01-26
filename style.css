@@ -8,6 +8,23 @@ h2 {
 	color: #400080;
 }
 
+#gr {
+    height: 250px;
+    width: 250px;
+    border: 2px solid purple ;
+    background-color: white;
+}
+
+#left {
+	display: inline-block;
+	vertical-align: top;
+}
+
+#right {
+	display: inline-block;
+	vertical-align: top;
+}
+
 .plottitle {
 	font-size: 24px;
 	font-family: Verdana;
