@@ -59,6 +59,8 @@ h2 {
 
 .tooltip {
 	background-color: white;
+	font-size: 14px;
+	font-family: Verdana;
     border: solid;
     border-width: 3px;
     border-radius: 5px;
