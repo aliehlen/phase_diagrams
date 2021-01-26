@@ -1,15 +1,10 @@
 function add_rectangles(data, svg, x, y) {
 
-	// //remove the legend 
-	// svg.selectAll(".legend").remove();
-
 	// //remove the dots
 	svg.selectAll(".rect").remove();
 
 	// adjust the text on the range slider
 	d3.select("#eenumber-value").text(params.ee);
-	// d3.select("#congressN").property("value", currentCongress);
-
 
 	//add all the rectangles
 	svg.selectAll(".rects")
@@ -19,9 +14,9 @@ function add_rectangles(data, svg, x, y) {
             .append("rect")
                 .attr("class", "rect")
 				.attr("x", function(d) { return x(+d.kT); })
-                .attr("y", function(d) {return y(+d.linker-0.05) ; })
-                .attr("width", 18 ) //25
-                .attr("height", 38 )   
+                .attr("y", function(d) {return y(d.linker) ; })
+                .attr("width", 18 ) 
+                .attr("height", y.bandwidth() )   
 				.style("fill", function(d) { 
 					// for the legend
 					if(!params.legendcolors.includes(d.final_lattice_code)) {

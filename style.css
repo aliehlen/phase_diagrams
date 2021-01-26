@@ -8,13 +8,6 @@ h2 {
 	color: #400080;
 }
 
-#gr {
-    height: 250px;
-    width: 250px;
-    border: 2px solid purple ;
-    background-color: white;
-}
-
 #left {
 	display: inline-block;
 	vertical-align: top;
@@ -45,7 +38,7 @@ h2 {
 
 .sliderlabel {
 	font-size: 18px;
-	font-family: Verdana;
+	/* font-family: Verdana; */
 	display: inline-block;
 	text-align: left;
 }
