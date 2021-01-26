@@ -1,4 +1,4 @@
-function plot_axes_tilemap(x, y, whichdiv, margins) {
+function plot_axes(x, y, axislabels, whichdiv, margins) {
 
     // now create the svg element
     var svg = d3.select(whichdiv)
@@ -11,7 +11,6 @@ function plot_axes_tilemap(x, y, whichdiv, margins) {
                     .attr("transform", 
                           "translate(" + margins.margin_left + "," + margins.margin_top + ")");
 
-
     // x axis
     var x_axis = d3.axisBottom(x).tickSizeOuter(0);
 
@@ -21,7 +20,7 @@ function plot_axes_tilemap(x, y, whichdiv, margins) {
 		.call(x_axis);
     
     // top axis
-    var top_axis = d3.axisBottom(x).ticks(0).tickSizeOuter(0);
+    var top_axis = d3.axisBottom(x).tickValues([]).tickSizeOuter(0);
 
     svg.append("g")
         .attr("class", "axis")
@@ -50,14 +49,14 @@ function plot_axes_tilemap(x, y, whichdiv, margins) {
         .attr("x", 0 - margins.margin_top - (margins.height / 2) )
         .attr("dy", "-0.5em")
         .attr("dx", "1em")
-        .text("number of linkers");
+        .text(axislabels[0]);
 
     svg.append("text")
         .attr("class", "label")
         .attr("x", margins.width / 2 )
         .attr("y", margins.height + (margins.margin_bottom))
         .attr("dy", "-1em")
-        .text("reduced temperature T*");
+        .text(axislabels[1]);
 
     return svg
 }

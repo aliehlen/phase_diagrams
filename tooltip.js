@@ -8,6 +8,7 @@ var tooltip = d3.select("#tilemap")
 var mouseover = function(d) {
     tooltip
         .style("opacity", 1)
+        .style("display", "block")
         .style("border-color", params.colormap(d.final_lattice_code))
     d3.select(this)
         .style("stroke", function(d) {return params.colormap(d.final_lattice_code);})
@@ -20,16 +21,16 @@ var mousemove = function(d) {
         .html("T*: " + d.kT + 
             "<br> started: " + d.how_initialized +
             "<br> finished: " + d.final_lattice_code) 
-    //   .style("left", (d3.mouse(this)[0]+0) + "px") // the positioning seems to be dependent on other text on the page
-    //   .style("top", (d3.mouse(this)[1]+0) + "px") 
-        .style("left", (d3.event.pageX-5) + "px") // this one sometimes becomes a cursor and doesn't display
+        .style("left", (d3.event.pageX-5) + "px") 
         .style("top", (d3.event.pageY-75) + "px")
 }
 
 var mouseleave = function(d) {
     tooltip
         .style("opacity", 0)
+        .style("display", "none")
     d3.select(this)
         .style("stroke", "none")
         .style("fill-opacity", "1")
 }
+

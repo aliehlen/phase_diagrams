@@ -26,7 +26,8 @@ function add_rectangles(data, svg, x, y) {
                 })
         .on("mouseover", mouseover)
         .on("mousemove", mousemove)
-        .on("mouseleave", mouseleave);
+        .on("mouseleave", mouseleave)
+        .on("click", function(d) {add_points(params.grdata, plots.gr.svg, plots.gr.x, plots.gr.y, d.run)});
                 
 
 	//add a legend, using the colors array defined above
