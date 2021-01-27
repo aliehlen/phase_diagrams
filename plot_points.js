@@ -6,6 +6,7 @@ function add_points(data, svg, x, y, runname) {
     svg.append("g")
         .append("path")  
         .attr("class", "gpath")
+        .classed(clean_str(runname), true) // for removing later
         .attr("clip-path", "url(#clip)")
         .datum(data.filter(function(d) { return d.run == runname }))
         .attr("fill", "none")
@@ -20,6 +21,7 @@ function add_points(data, svg, x, y, runname) {
     svg.append('g')
         .attr("clip-path", "url(#clip)")
         .attr("class", "gcirc")
+        .classed(clean_str(runname), true) // for removing later
         .selectAll(".circ")
 		.data(data).enter()
 		.filter(function(d) { return d.run == runname })
@@ -45,8 +47,17 @@ function clear_points() {
     plots.gr.svg.selectAll(".gcirc").remove();
     plots.gr.svg.selectAll(".gpath").remove();
 
+    // reset the tiles
+    plots.tile.svg.selectAll(".activerect").classed("activerect", false);
+    plots.tile.svg.selectAll(".clicked").classed("clicked", false);
+
     // reset the y axis
     plots.gr.y_zoomed = plots.gr.y;
     plots.gr.svg.selectAll(".yaxis").call(d3.axisLeft(plots.gr.y_zoomed));
     
 };
+
+function clear_one_set_of_points(runname) {
+    	//remove the dots
+        plots.gr.svg.selectAll("." + runname).remove();
+}

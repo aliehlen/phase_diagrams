@@ -14,6 +14,10 @@ function get_num_in_range(minmax) {
     return numbers;
   }
 
+function clean_str(string) {
+    return string.replace(/[^\w\s]/gi, '');
+}
+
 function add_title(svg) {
 
     svg.selectAll(".plottitle").remove();

@@ -72,6 +72,11 @@ h2 {
 	opacity: 1;
  }
 
+.activerect {
+	fill-opacity:0.5;
+	stroke-width: 3px;
+}
+
 .legend {
 	font-family: Verdana;
 	font-size: 14px;

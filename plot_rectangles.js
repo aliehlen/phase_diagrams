@@ -17,6 +17,7 @@ function add_rectangles(data, svg, x, y) {
                 .attr("y", function(d) {return y(d.linker) ; })
                 .attr("width", 18 ) 
                 .attr("height", y.bandwidth() )   
+                .style("stroke", function(d) {return params.colormap(d.final_lattice_code);})
 				.style("fill", function(d) { 
 					// for the legend
 					if(!params.legendcolors.includes(d.final_lattice_code)) {
@@ -28,8 +29,18 @@ function add_rectangles(data, svg, x, y) {
         .on("mousemove", mousemove)
         .on("mouseleave", mouseleave)
         .on("click", function(d) {
-            console.log(d.run);
-            add_points(params.grdata, plots.gr.svg, plots.gr.x, plots.gr.y_zoomed, d.run)
+            // record that this has been clicked and give different style
+            if (d3.select(this).classed("clicked")) {
+                // if it's already clicked, unclick and remove points
+                d3.select(this).classed("clicked", false);
+                clear_one_set_of_points(clean_str(d.run)); 
+            } else {
+                // if not, click it
+                d3.select(this).classed("clicked", true);
+                d3.select(this).classed("activerect",true);
+                console.log(d.run);
+                add_points(params.grdata, plots.gr.svg, plots.gr.x, plots.gr.y_zoomed, d.run)
+            };
         });
                 
 
