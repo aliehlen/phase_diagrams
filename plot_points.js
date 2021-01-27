@@ -3,9 +3,11 @@ function add_points(data, svg, x, y, runname) {
     var this_run_lattice = params.data.filter(function(d) {return d.run == runname})[0].final_lattice_code;
 
     // add the lines
-    svg.append("path")
+    svg.append("g")
+        .append("path")  
+        .attr("class", "gpath")
+        .attr("clip-path", "url(#clip)")
         .datum(data.filter(function(d) { return d.run == runname }))
-        .attr("class", "path")
         .attr("fill", "none")
         .attr("stroke", "#b6b6b6")
         .attr("stroke-width", 1.5)
@@ -15,11 +17,13 @@ function add_points(data, svg, x, y, runname) {
         );
 
 	//add all the points
-	svg.selectAll(".circ")
+    svg.append('g')
+        .attr("clip-path", "url(#clip)")
+        .attr("class", "gcirc")
+        .selectAll(".circ")
 		.data(data).enter()
 		.filter(function(d) { return d.run == runname })
             .append("circle")
-                .attr("class", "circ")
 				.attr("cx", function(d) { return x(+d.r); })
                 .attr("cy", function(d) {return y(+d.g) ; })
                 .attr("r", 2 ) 
@@ -38,7 +42,11 @@ function add_points(data, svg, x, y, runname) {
 function clear_points() {
 
 	//remove the dots
-    plots.gr.svg.selectAll(".circ").remove();
-    plots.gr.svg.selectAll(".path").remove();
+    plots.gr.svg.selectAll(".gcirc").remove();
+    plots.gr.svg.selectAll(".gpath").remove();
+
+    // reset the y axis
+    plots.gr.y_zoomed = plots.gr.y;
+    plots.gr.svg.selectAll(".yaxis").call(d3.axisLeft(plots.gr.y_zoomed));
     
 };

@@ -14,7 +14,7 @@ function get_num_in_range(minmax) {
     return numbers;
   }
 
-  
+
 function plot_all(data, grdata) {
 
     // x, y, svg for tilemap
@@ -30,10 +30,11 @@ function plot_all(data, grdata) {
     // x, y, svg for g(r)
     plots.gr.x = d3.scaleLinear().range([0, params.grmargins.width]);
     plots.gr.y = d3.scaleLinear().range([ params.grmargins.height, 0 ]);
-
+    
     plots.gr.x.domain(d3.extent(grdata, function(d) { return +d.r; }));
     plots.gr.y.domain(d3.extent(grdata, function(d) { return +d.g; }));
-    
+    plots.gr.y_zoomed = plots.gr.y;
+
     var gr_axislabels = ["r (R)", "g(r)"]
     plots.gr.svg = plot_axes(plots.gr.x, plots.gr.y, gr_axislabels, "#gr", params.grmargins)
 
@@ -66,6 +67,9 @@ function plot_all(data, grdata) {
 
     // populate the tilemap plot
     add_rectangles(data, plots.tile.svg, plots.tile.x, plots.tile.y);
+
+    // add zoomability
+    add_zoom();
 
 };
 
@@ -101,7 +105,6 @@ function add_button(svg) {
         .attr("y", 0 - (params.grmargins.margin_top))
         .on("click", clear_points);
 }
-
 
 //runs on load
 Promise.all([

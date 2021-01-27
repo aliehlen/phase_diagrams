@@ -30,7 +30,7 @@ function plot_axes(x, y, axislabels, whichdiv, margins) {
     var y_axis = d3.axisLeft(y).tickSizeOuter(0);
 
 	svg.append("g")
-        .attr("class", "axis")
+        .attr("class", "yaxis")
         .call(y_axis) 
     
     // right axis

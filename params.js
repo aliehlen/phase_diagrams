@@ -42,5 +42,6 @@ function define_plots(){
 
         this.tile = {};
         this.gr = {};
+        this.gr.offset = 0;
 	};
 }
