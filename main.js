@@ -14,9 +14,7 @@ function get_num_in_range(minmax) {
     return numbers;
   }
 
-
-
-
+  
 function plot_all(data, grdata) {
 
     // x, y, svg for tilemap
@@ -60,17 +58,14 @@ function plot_all(data, grdata) {
 		})
  
 
+    // add button to clear g(r)
+    add_button(plots.gr.svg);
+
     // add title to tilemap
     add_title(plots.tile.svg);
 
     // populate the tilemap plot
     add_rectangles(data, plots.tile.svg, plots.tile.x, plots.tile.y);
-
-    var this_runname = "crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_10";
-
-    add_points(grdata, plots.gr.svg, plots.gr.x, plots.gr.y, this_runname);
-    
-    
 
 };
 
@@ -82,9 +77,29 @@ function add_title(svg) {
     svg.append("text")
         .attr("class", "plottitle")
         .attr("x", 0 - (params.tilemargins.margin_left))
-        .attr("y", 0)
-        .attr("dy", "-1.0em")
+        .attr("y", 0 - (params.tilemargins.margin_top/2))
         .text("Phase diagram for " + params.ee + ":1 ratio");
+}
+
+function add_button(svg) {
+
+    svg.append("rect")
+        .attr("class", "button")
+        .attr("x", 0 - (params.grmargins.margin_left/2))
+        .attr("y", 0 - (params.grmargins.margin_top));
+
+    svg.append("text")
+        .attr("class", "buttontext")
+        .attr("x", 0 - (params.grmargins.margin_left/2) + 15)
+        .attr("y", 0 - (params.grmargins.margin_top/2) - 4)
+        .text("clear g(r) plot");
+
+    // put another invisible rectangle so that a cursor doesn't appear
+    svg.append("rect")
+        .attr("class", "buttoncover")
+        .attr("x", 0 - (params.grmargins.margin_left/2))
+        .attr("y", 0 - (params.grmargins.margin_top))
+        .on("click", clear_points);
 }
 
 
@@ -95,7 +110,6 @@ Promise.all([
     ]).then(function(d) {
         define_params(d);
         define_plots();
-        console.log(plots);
 		plot_all(params.data, params.grdata);
 	})
 	.catch(function(error){

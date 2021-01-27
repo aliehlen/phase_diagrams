@@ -44,18 +44,18 @@ function plot_axes(x, y, axislabels, whichdiv, margins) {
     // add axis labels
     svg.append("text")
         .attr("class", "label")
+        .attr("x", margins.width / 2 )
+        .attr("y", margins.height + (margins.margin_bottom))
+        .attr("dy", "-1em")
+        .text(axislabels[0]);
+
+    svg.append("text")
+        .attr("class", "label")
         .attr("transform", "rotate(-90)")
         .attr("y", 0 - (margins.margin_left/2))
         .attr("x", 0 - margins.margin_top - (margins.height / 2) )
         .attr("dy", "-0.5em")
         .attr("dx", "1em")
-        .text(axislabels[0]);
-
-    svg.append("text")
-        .attr("class", "label")
-        .attr("x", margins.width / 2 )
-        .attr("y", margins.height + (margins.margin_bottom))
-        .attr("dy", "-1em")
         .text(axislabels[1]);
 
     return svg

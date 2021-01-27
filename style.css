@@ -43,6 +43,26 @@ h2 {
 	text-align: left;
 }
 
+.button {
+	fill: #f5f5e9;
+	stroke: black;
+	width: 10em;
+	height: 2em;
+}
+
+.buttoncover {
+	fill: grey;
+	opacity: 0.0;
+	stroke: black;
+	width: 10em;
+	height: 2em;
+}
+
+.buttontext {
+	font-size: 18px;
+	font-family: Verdana;
+}
+
 #eenumber {
 	font-size: 18px;
 	width: 2em;

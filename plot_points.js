@@ -5,6 +5,7 @@ function add_points(data, svg, x, y, runname) {
     // add the lines
     svg.append("path")
         .datum(data.filter(function(d) { return d.run == runname }))
+        .attr("class", "path")
         .attr("fill", "none")
         .attr("stroke", "#b6b6b6")
         .attr("stroke-width", 1.5)
@@ -23,39 +24,21 @@ function add_points(data, svg, x, y, runname) {
                 .attr("cy", function(d) {return y(+d.g) ; })
                 .attr("r", 2 ) 
 				.style("fill", function(d) { 
-					// // for the legend
-					// if(!params.legendcolors.includes(d.final_lattice_code)) {
-					// 	params.legendcolors.push(d.final_lattice_code);
-					// }
-                    // return params.colormap(d.final_lattice_code);
                     return params.colormap(this_run_lattice);
-                });
-                
+                })
+                .style("stroke", function(d) {return params.colormap(this_run_lattice);}) 
+                .style("stroke-width", 0) 
+        .on("mouseover", mouseover_pts)
+        .on("mousemove", mousemove_pts)
+        .on("mouseleave", mouseleave_pts);
 
-
-                
-
-	// //add a legend, using the colors array defined above
-	// var legend = svg.selectAll(".legend")
-	// 	.data(params.legendcolors).enter()
-	// 	.append("g")
-    //         .attr("class", "legend")
-	// 		.attr("transform", function(d, i) { 
-    //             return "translate("+params.tilemargins.margin_right+"," + i*24 + ")"; 
-    //         });
-
-	// legend.append("rect")
-	// 	.attr("x", params.tilemargins.width - 97)
-	// 	.attr("width", 20)
-	// 	.attr("height", 20)
-	// 	.style("fill", function (d) {return params.colormap(d)});
-
-    // legend.append("text")
-    //       .attr("class", "legend")
-	//       .attr("x", params.tilemargins.width - 69)
-	// 	  .attr("y", 9)
-    //       .attr("dy", ".5em")
-	// 	  .text(function(d) {return d;});
 };
 
 
+function clear_points() {
+
+	//remove the dots
+    plots.gr.svg.selectAll(".circ").remove();
+    plots.gr.svg.selectAll(".path").remove();
+    
+};
