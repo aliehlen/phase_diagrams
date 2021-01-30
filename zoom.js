@@ -11,7 +11,7 @@ function add_zoom() {
             .attr("width", params.grmargins.width)
             .attr("height", params.grmargins.height);
             
-    plots.gr.svg.append("rect")
+    plots.gr.zoomElem = plots.gr.svg.append("rect")
         .attr("width", params.grmargins.width)
         .attr("height", params.grmargins.height)
         .style("fill", "none")
