@@ -10,7 +10,7 @@ function add_rectangles(data, svg, x, y) {
 	svg.selectAll(".rects")
 		.data(data).enter()
 		.filter(function(d) { return d.EE == params.ee })
-		.filter(function(d) { return d.how_initialized == params.how_initialized })
+		// .filter(function(d) { return d.how_initialized == params.how_initialized })
             .append("rect")
                 .attr("class", "rect")
 				.attr("x", function(d) { return x(+d.kT); })

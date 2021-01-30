@@ -10,7 +10,7 @@ function define_params(tables){
         this.tilemargins = {};
         this.tilemargins.margin_top = 50;
         this.tilemargins.margin_bottom = 65; 
-        this.tilemargins.margin_left = 55; 
+        this.tilemargins.margin_left = 150; // 55
         this.tilemargins.margin_right = 120;
         this.tilemargins.width = 755 - this.tilemargins.margin_left - this.tilemargins.margin_right;
         this.tilemargins.height = 490 - this.tilemargins.margin_top - this.tilemargins.margin_bottom;
@@ -28,6 +28,9 @@ function define_params(tables){
         this.eemax = d3.extent(this.data, function(d) { return +d.EE; })[1] ;
         this.how_initialized = "BCC";
         this.linkerdomain = get_num_in_range(d3.extent(this.data, function(d) { return +d.linker; }));
+        this.linkerdomain = d3.map(this.data, function(d){return d.linker;}).keys();
+        this.linkerdomain.sort();
+
         // tilemap colors
         this.colorvals = d3.map(this.data, function(d){return d.final_lattice_code;}).keys();
         this.colormap = d3.scaleOrdinal().domain(this.colorvals).range(d3.schemeTableau10);
