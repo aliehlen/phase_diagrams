@@ -55,6 +55,9 @@ function clear_points() {
     plots.gr.y_zoomed = plots.gr.y;
     plots.gr.svg.selectAll(".yaxis").call(d3.axisLeft(plots.gr.y_zoomed));
     
+    // reset the zoom offset
+    plots.gr.offset = 0;
+    
 };
 
 function clear_one_set_of_points(runname) {
