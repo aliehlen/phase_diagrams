@@ -1,7 +1,7 @@
 function add_zoom() {
     plots.gr.zoom = d3.zoom()
         .scaleExtent([0.5, 100])
-        .translateExtent([[0, 0], [params.grmargins.width, params.grmargins.height]])
+        .translateExtent([[0, -params.grmargins.height], [0, 2*params.grmargins.height]])
         .extent([[0, 0], [params.grmargins.width, params.grmargins.height]])
         .on("zoom", zoomed);
 
@@ -11,7 +11,7 @@ function add_zoom() {
             .attr("width", params.grmargins.width)
             .attr("height", params.grmargins.height);
             
-    plots.gr.svg.append("rect")
+    plots.gr.zoomrect = plots.gr.svg.append("rect")
         .attr("width", params.grmargins.width)
         .attr("height", params.grmargins.height)
         .style("fill", "none")
