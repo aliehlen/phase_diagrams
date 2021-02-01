@@ -14,34 +14,43 @@
 		<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
 
-		<title>final project</title>
+		<title>Phase diagrams</title>
 
 	</head>
 
 	<body>
 		
-		<h2> heatmap </h2>
+		<h2> Phase diagrams of colloidal crystals </h2>
 
-		<div id="list">
-			<p> This is what we want to do:</p>
-			<ol> 
-				<li> read in data, make filtered heatmap of one data set </li>
-				<li> implement slider to switch between EE </li>
-				<li> add host with other data</li>
-				<li> add click to add g(r) plot next door </li>				
-			</ol>
-			<p>Goals:</p> 
-			<ol> 
-				<li> minimum viable product: heatmap with slider to change EEs and hover with info &#10004 </li>
-				<li> general goal: click and plot g(r) &#10004 </li>
-				<li> reach: plot g(r)s OR be able to adjust/remove data OR add diffusion data, visualize with region instead of boxes</li>
-			</ol>
+		<div id="intro">
+			<p> 
+				This is a visualization of the results of many simulations of a system of colloidal particles. 
+				The system is composed of two types of particles, large and small, where the small particles are 
+				grafted with varying numbers of linkers, which are attracted to the large particles. The mixture's 
+				composition, or ratio of small to large particles, may also vary. Each simulation is started in a particular 
+				crystal structure and ends in a particle crystal structure (which may be different from the initial structure). 
+
+				On the left is a phase diagram as a function of temperature and number of linkers/small particles 
+				(and, if in classification mode, initial crystal structure). On the right is a set of axes that hold 
+				pair correlation functions (<em>g(r)</em>) when those are plotted. 
+
+				Usage:
+				<ul>
+					<li> Cycle through different compositions (ratio of number of small particles to number of large 
+						 particles (#small:#large)) using the number toggle. </li>
+					<li> Hover over points on the phase diagram for more detail on that simulation. </li>
+					<li> Click on any number of points on the phase diagram to plots corresponding pair correlation 
+						 function on the right. </li>
+					<li> Zoom or pan the pair correlation functions as needed. Hover over points on the pair correlation 
+						 for more information about each point. </li>
+					<li> Remove plotted pair correlation functions by clicking on individual phase diagram points to toggle 
+						 data on and off, or by clicking the "clear plot" button to remove all data sets currently visuzlied 
+						 and reset the axes. </li>
+				</ul>
+			</p>
 		</div>
 
-		<p> Here is the plot: </p>
-
 		<div class="container">
-			<br>
 			<div id="slider"></div>
 			<br>
 			<div id="left">
