@@ -8,6 +8,10 @@ h2 {
 	color: #400080;
 }
 
+#intro {
+	max-width: 1455px;
+}
+
 #left {
 	display: inline-block;
 	vertical-align: top;
