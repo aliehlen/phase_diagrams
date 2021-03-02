@@ -40,8 +40,8 @@ function plot_all(data, grdata) {
 
 //runs on load
 Promise.all([
-    d3.csv("data/db.csv"),
-    d3.csv("data/gr_data.csv"),
+    d3.csv("data/db_v2.csv"),
+    d3.csv("data/gr_data_v2.csv"),
     ]).then(function(d) {
         define_params(d);
         define_plots();
