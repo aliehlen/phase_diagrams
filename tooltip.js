@@ -19,7 +19,7 @@ var mousemove = function(d) {
     tooltip
         .html("T*: " + d.kT + 
               "<br> started: " + d.how_initialized +
-              "<br> finished: " + d.final_lattice_code) 
+              "<br> finished: " + d.detailed_lattice_code) 
         .style("left", (d3.event.pageX-5) + "px") 
         .style("top", (d3.event.pageY-75) + "px")
 }
