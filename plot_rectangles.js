@@ -2,6 +2,7 @@ function add_rectangles(data, svg, x, y) {
 
 	// //remove the dots
 	svg.selectAll(".rect").remove();
+	svg.selectAll(".legend").remove();
 
 	// adjust the text on the range slider
 	d3.select("#eenumber-value").text(params.ee);
@@ -10,7 +11,7 @@ function add_rectangles(data, svg, x, y) {
 	svg.selectAll(".rects")
 		.data(data).enter()
 		.filter(function(d) { return d.EE == params.ee })
-		.filter(function(d) { return d.how_initialized == params.how_initialized })
+		// .filter(function(d) { return d.how_initialized == params.how_initialized })
             .append("rect")
                 .attr("class", "rect")
 				.attr("x", function(d) { return x(+d.kT); })
@@ -54,14 +55,15 @@ function add_rectangles(data, svg, x, y) {
             });
 
 	legend.append("rect")
-		.attr("x", params.tilemargins.width - 97)
+        .attr("class", "legend")
+		.attr("x", params.tilemargins.width - 133)
 		.attr("width", 20)
 		.attr("height", 20)
 		.style("fill", function (d) {return params.colormap(d)});
 
     legend.append("text")
           .attr("class", "legend")
-	      .attr("x", params.tilemargins.width - 69)
+	      .attr("x", params.tilemargins.width - 133+28)
 		  .attr("y", 9)
           .attr("dy", ".5em")
 		  .text(function(d) {return d;});

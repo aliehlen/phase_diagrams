@@ -43,7 +43,7 @@ function add_number_wheel(data) {
 		.attr('id','eenumber')
         .attr('type','number')
 		.attr('min', 3)
-        .attr('max', 12)
+        .attr('max', params.eemax)
         .attr('value', params.ee)
 		.on("input", function() {
             params.ee = +this.value;
