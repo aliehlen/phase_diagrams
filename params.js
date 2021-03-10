@@ -30,6 +30,8 @@ function define_params(tables){
         // tilemap colors
         this.colorvals = d3.map(this.data, function(d){return d.final_lattice_code;}).keys();
         this.colormap = d3.scaleOrdinal().domain(this.colorvals).range(d3.schemeTableau10);
+        this.colormap = d3.scaleOrdinal(["SC", "BCC", "FCC", "BCT", "compr. BCC", "BCC/FCC coex.", "A20", "melted"],
+                                        ["red", "blue", "green", "turquoise", "#00008B", "darkcyan", "#B23AEE", "grey"]);
         this.legendcolors = [];
 	};
 }
