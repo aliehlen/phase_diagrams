@@ -16,7 +16,7 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,crosses,"",none,"almost pristine, peaks a little messy",none,BCC,1.3,6,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_10,chain_len,FCC,129,FCC,interlocked hexes/mini crosses,"","FCC peaks, ratio  c = sqrt(2)*a is satisfied",almost pristine,none,BCC,1.3,8,3,10,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_4,chain_len,melted,136,fluid,delocalized,"",none,very messy liquidy something,none,BCC,1.3,8,3,4,fluid
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_8,chain_len,BCC/FCC coex.,136,coexistance BCC/FCC,"partially crosses, partially messy interlocked hexes",no (used to say y but I changed to no b/c there's no production.gsd),split into : (name AC and x>0 and x<35) and  (name ACand x <0) and get one nice BCC g(r) andonemessy broady peaked FCC,"messy, first peak is really low","two phases by frame 56, starts out FCCish/liquidy",BCC,1.3,8,3,8,coexistance BCC/FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_8,chain_len,BCC/FCC coex.,136,coexistance BCC/FCC,"partially crosses, partially messy interlocked hexes",yes,split into : (name AC and x>0 and x<35) and  (name ACand x <0) and get one nice BCC g(r) andonemessy broady peaked FCC,"messy, first peak is really low","two phases by frame 56, starts out FCCish/liquidy",BCC,1.3,8,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_9_chn_num_3_linker_8,chain_len,FCC,136,FCC,messy small crosses,"","FCC peaks, I think",broadish peaks,none,BCC,1.3,9,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_6,chain_len,BCC,136,BCC,very messy crosses,"",second peak is hard to see;lots of AC motion (phonons??),"broad peaks, overlapping",none,BCC,1.5,4,3,6,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_7,chain_len,BCC,136,BCC,very messy crosses,"",second peak is hard to see,"broad peaks, overlapping",none,BCC,1.5,4,3,7,BCC
@@ -29,25 +29,26 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_10,chain_len,BCC,136,BCC,crosses,"",none,pristine,none,BCC,1.5,6,3,10,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_10,chain_len,FCC,122,FCC,interlocking hexes,"",FCC peaks,"slightly broad peaks, almost pristine",none,BCC,1.5,8,3,10,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_6,chain_len,melted,136,fluid,"","","",liquid,"",BCC,1.5,8,3,6,fluid
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_8,chain_len,FCC,136,mixture BCT/BCC and FCC (?),"",rerun,"mutiple regions, at least one is (name AC and z >0 and x <0)","","",BCC,1.5,8,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_10_chn_num_3_linker_10,chain_len,FCC,129,FCC,interlocked hexes,"",FCC peaks,almost pristine with broad peaks,none,BCT,1.1,10,3,10,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_10_chn_num_3_linker_6,chain_len,melted,136,fluid,homogenous,"",none,"first two peaks are crystaline, rest is fluid like",none,BCT,1.1,10,3,6,fluid
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_10_chn_num_3_linker_8,chain_len,FCC,136,FCC,vague interlocking hexes,"no, not many frames",FCC peaks,crystal like but broad peaks,none,BCT,1.1,10,3,8,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_8_chn_num_3_linker_10,chain_len,FCC,136,lattice no ID,offset interlocking hexes biased towards square interiors,yes,"triclinic box, maybe BCT","almost pristine, broad peaks",none,BCT,1.1,8,3,10,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_8_chn_num_3_linker_6,chain_len,BCC,136,BCC,messy interlocking hexes,"",triclinic box,"messy, broad peaks",none,BCT,1.1,8,3,6,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_8_chn_num_3_linker_8,chain_len,BCC/FCC coex.,136,coexistance BCC/FCC,"","","","","",BCT,1.1,8,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_10_chn_num_3_linker_10,chain_len,FCC,108,FCC,messy interlocking hexes,"",none,"FCC peaks, broad peaks",none,BCT,1.3,10,3,10,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_10_chn_num_3_linker_6,chain_len,melted,136,fluid,homogenous,"",none,fluid like,none,BCT,1.3,10,3,6,fluid
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_8_chn_num_3_linker_6,chain_len,BCC/FCC coex.,136,coexistance BCC/FCC,messy interlocking hexes,"",none,very broad peaks,none,BCT,1.3,8,3,6,coexistance BCC/FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_8_chn_num_3_linker_6,chain_len,BCC,136,BCC,messy interlocking hexes,"",none,very broad peaks,none,BCT,1.3,8,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.5_eps_-70_EE_8_chn_num_3_linker_8,chain_len,FCC,136,FCC,messy interlocking hexes,yes,FCC peaks,"almost pristine, broad peaks",none,BCT,1.5,8,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_8,chain_len,A20,136,A20,offset hexes,no,(looks kinda hexy but can't tell); not sure if IDed all peaks right,"almost pristine, broadish peaks",none,SC,1.3,3,3,8,A20 polycrystal
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_8_chn_num_3_linker_8,chain_len,BCC/FCC coex.,136,mixture,"function of space, crosses and messy sublattice ",yes,"","","",BCC,1.2,8,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_8_chn_num_3_linker_8,chain_len,FCC,136,mixture FCC or BCT (prob BCT),interlocked hex and crosses,yes,mixture is not so obvious compared to other cases,"broad peaks, seems like a liquid towards the larger distances ",none,BCC,1.4,8,3,8,FCC
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.6_eps_-70_EE_8_chn_num_3_linker_8,chain_len,FCC,136,FCC,very messy interlocked hex,"no, small imperfections",none,"FCC peaks, broad peaks",none,BCT,1.6,8,3,8,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_8_chn_num_3_linker_8,chain_len,liquid,136,liquid,homogeneous,no,none,liquidy,none,BCC,1.6,8,3,8,liquid
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_7_chn_num_3_linker_8,chain_len,SC,136,SC,squares,"",coord num 6,pristine,none,BCC,0.3,7,3,8,SC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.4_eps_-70_EE_7_chn_num_3_linker_8,chain_len,SC,136,SC,squares,"",coord num 6,pristine,none,BCC,0.4,7,3,8,SC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_7_chn_num_3_linker_8,chain_len,SC,136,SC,squares,"",coord num 6,pristine,none,BCC,0.5,7,3,8,SC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCT,136,mixture (BCC + something else),"",yes,two phases visible n_y direction,overlapping pristine peaks,"",BCC,0.6,6,3,8,BCT2a-altcenter
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_7_chn_num_3_linker_8,chain_len,SC,136,SC,squares,"",coord num 6,pristine,none,BCC,0.6,7,3,8,SC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_7_chn_num_3_linker_8,chain_len,BCC/FCC coex.,136,coexistance BCC/FCC,very messy interlocking hexes with very neat crosses,"",stabilizes frame 34,almost pristine; broad peaks,GB with sublattice similar to BCT,BCC,1.2,7,3,8,coexistance BCC/FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.0_eps_-70_EE_8_chn_num_3_linker_8,chain_len,BCC/FCC coex.,261,coexistance BCC/FCC,"some neat interlocking hexes, some very messy","",coord num 4-5,"","",BCT,1,8,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.45_eps_-70_EE_8_chn_num_3_linker_8,chain_len,FCC,136,FCC,"very messy sublattice, interlocking hexes","",coord num 12,"FCC peaks, broad, almost pristine",none,BCT,1.45,8,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.6_eps_-70_EE_9_chn_num_3_linker_8,chain_len,FCC,136,FCC,very messy interlocking hexes,"","coord num 12, liquidy for the first couple frames","FCC peaks, broad peaks","",BCT,1.6,9,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,very neat crosses,"",num coord of first and second nearest neighbors 14,almost pristine,none,BCC,0.8,6,3,8,BCC
@@ -62,10 +63,13 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.62_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,messy crosses,"",num coord of first and second nearest neighbors 14,"broad peaks, almost pristine",none,BCC,1.62,6,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.65_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,very messy crosses,"",num coord of first and second nearest neighbors 14,"broad peaks, almost pristine",none,BCC,1.65,6,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,messy crosses,"",num coord of first and second nearest neighbors 14,"broad peaks, almost pristine",none,BCC,1.6,6,3,8,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.65_eps_-70_EE_7_chn_num_3_linker_8,chain_len,liquid,128,liquid,delocalized,"",STILL RUNNING WHEN CHECKED,liquidy,none,BCT,1.65,7,3,8,liquid
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.75_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,neat crosses,"",num coord 8 or double coord 14,almost pristine,none,BCC,0.75,6,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.77_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,neat crosses,"",num coord 8 or double coord 14,almost pristine,none,BCC,0.77,6,3,8,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_10_chn_num_3_linker_8,chain_len,FCC,136,ordered liquid,messy,yes,"","two discernible peaks, rest is liquid like",there seems to be a very messy sublattice but it is debatable,BCC,1,10,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_10_chn_num_3_linker_8,chain_len,FCC,136,FCC,messy interlocking hexes,"",coord num 12,"braod peaks, FCC peaks",none,BCC,1.2,10,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.341_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,crosses,"",double coord 14,almost pristine,none,BCC,1.341,6,3,8,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_10_chn_num_3_linker_8,chain_len,melted,136,melting,"","","",liquid,"",BCC,1.4,10,3,8,melting
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.67_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,messy crosses,"",double coord 14,broad peaks,none,BCC,1.67,6,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.69_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,messy crosses,"",double coord 14,broad peaks,box shears into triclinic box but seems to have a BCC crystal within it,BCC,1.69,6,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_6_chn_num_3_linker_8,chain_len,BCC,136,BCC,very messy crosses,"",double coord 14,broad peaks,none,BCC,1.7,6,3,8,BCC
@@ -111,6 +115,7 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.95_eps_-70_EE_4_chn_num_3_linke
 crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,136,BCT2a,localized in weird line things,"","ccord num 4, triple coord num 16","unkown peaks, almost pristine peaks",tetragonal sim box,FCC,1.3,4,3,10,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.97_eps_-70_EE_6_chn_num_3_linker_10,"",melted,136,fluid,"","","","","",BCC,1.97,6,3,10,fluid
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.95_eps_-70_EE_6_chn_num_3_linker_10,"",melted,136,melting,"region dependent, crosses and delocalized","",double coord num 13.4,"BCC peaks, broad peaks",maybe solid-liquid equilibrium,BCC,1.95,6,3,10,melting
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.9_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,136,BCC,very messy crosses,yes,double coord num 14,BCC peaks; broad peaks,none,BCC,1.9,4,3,10,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,136,BCC,very messy crosses,yes,double coord num 14,"BCC peaks, broad peaks",none,BCC,1.7,4,3,10,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_6,"",BCC,136,BCC,very messy crosses,"",double coord num 13.8,"BCC peaks, broad peaks",none,BCC,1.6,6,3,6,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_10,"",BCC,136,BCC,very neat crosses,"",double coord num 14,"BCC peaks, almost pristine",none,BCC,1.6,6,3,10,BCC
@@ -123,6 +128,8 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_4,"",BCC,136,BCC,messy crosses,"",double coord num 14,"BCC peaks, almost pristine",none,BCC,0.9,6,3,4,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,136,BCT2a-altcenter,localized in weird line things,"",quadruple coord num 16,overlapped peaks but indentifiable ones,tetragonal sim box,BCC,0.9,4,3,10,BCT2a-altcenter
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_4,"",BCC,136,BCC,messy crosses,"",double coord num 14,"BCC peaks, almost pristine",none,BCC,0.7,6,3,4,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,136,SHa - polycrystal? - coex w cubic layer,"region dependent, neat sublattices",yes,double coord num 8,crystalline peaks,"maybe NiAs, peaks: 10.4, 11.5, 14.4, 18, 18.3",BCC,0.7,4,3,10,BCT2a-altcenter
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_4,"",BCT,136,BCTsqrt(2/3)a,neat sublattice,no,"coord num 10, double coord num 14",crystalline peaks,"peaks: 10.95, 13.35, 17.35, 18.95, 21.85",BCC,0.5,6,3,4,BCTsqrt(2/3)a polycrystal
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_4_chn_num_3_linker_10,"",A20,136,A20 polycrystal,neat sublattice,"","coord num 8, double coord num 18",FCC/SC peaks,jammed but has crystalline peaks,BCC,0.5,4,3,10,A20 polycrystal
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_4_chn_num_3_linker_10,"",SC,136,SC,very neat squares,"","coord num 6, double coord num 18",FCC/SC peaks,triclinic sim box,BCC,0.3,4,3,10,SC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.75_eps_-70_EE_6_chn_num_3_linker_10,"",BCC,136,BCC,neat crosses,"",double coord num 14,"BCC peaks, almost pristine",traces of mobile delocalized region,BCC,1.75,6,3,10,BCC
@@ -137,19 +144,25 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_6_chn_num_3_linker_6
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_6_chn_num_3_linker_4,"",BCC,136,BCC,messy crosses,"",double coord num 14,"BCC peaks, almost pristine",none,BCC,1,6,3,4,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_6_chn_num_3_linker_10,"",BCC,136,BCC,very neat crosses,"",double coord num 14,"BCC peaks, pristine peaks",traces of mobile delocalized region,BCC,1,6,3,10,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_4,"",BCC,136,BCC,crosses,"",double coord num 14,"BCC peaks, almost pristine",none,BCC,0.8,6,3,4,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_4,"",SH,136,SH,"slanted cubes, layered sublattice",yes,"coord num 8, double coord num 20","SC/FCC peaks, pristine",cannot identify what crystal it is even though it has known peaks,BCC,0.6,6,3,4,SH
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_7_chn_num_3_linker_8,"",BCC/FCC coex.,136,coexistance BCC/FCC,"region dependent, neat crosses and messy hexes","",double coord num 13.33,"BCC peaks, broad peaks",propagating delocalized surface,BCC,1.3,7,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_9_chn_num_3_linker_8,"",FCC,135,FCC,interlocking hexes,"",coord num 12,"FCC peaks, borad peaks",none,BCC,1.2,9,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_9_chn_num_3_linker_8,"",FCC,135,FCC,interlocking hexes,"",coord num 12,"FCC peaks, broad peaks",none,BCC,1.4,9,3,8,FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_9_chn_num_3_linker_8,"",FCC,135,FCC,very very messy interlocking hexes,"",coord num 12,"FCC peaks, broad peaks",none,BCC,1.1,9,3,8,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_9_chn_num_3_linker_8,"",gas with liquid droplets,114,FCC,very messy crosses,no,coord num 12,"FCC peaks, broad peaks","",FCC,1.5,9,3,8,gas with liquid droplets
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_4_chn_num_3_linker_6,"",A20,135,BCT,"localized """"""""point"""""""" regions to hopping regions","yes, not squarewave anneal",triple coord num 16,"BCT peaks, initial triple peak, broad peaks","",BCC,0.8,4,3,6,A20
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_7_chn_num_3_linker_8,"",BCC/FCC coex.,135,coexistance BCC/FCC,"region dependent, messy crosses to very messy interlocking hexes","",double coord num 13,broad peaks,"middle region of PBC box is BCC, top-down z dir are probably FCC",BCC,1.6,7,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_7_chn_num_3_linker_8,"run for longer, FCC region coalesces towards end of initial simulation",BCC/FCC coex.,135,coexistance BCC/FCC,"region dependent, messy crosses to very messy interlocking hexes","",double coord num 13.35,broad peaks,"most of the crystal is BCC, mesy region propagates until coalescing!",BCC,1.4,7,3,8,coexistance BCC/FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_7_chn_num_3_linker_8,"",BCC/FCC coex.,135,coexistance BCC/FCC,"region dependent, neat crosses to messy hopping regions",yes,double coord num 13.75,"two initial pristine BCC peaks, pristine peaks",mostly BCC but with small FCC domains,BCC,0.9,7,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_7_chn_num_3_linker_8,"",BCC/FCC coex.,135,coexistance BCC/messy lattice,"region dependent, neat crosses to messy hopping regions",yes,double coord num 13.39,"two initial pristine BCC peaks, pristine peaks","middle region of PBC box is BCC, top-down z dir is a messy lattice",BCC,1.1,7,3,8,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_7_chn_num_3_linker_8,"",BCC/FCC coex.,135,coexistance BCC/FCC,"region dependent, neat crosses to messy hopping regions","",double coord num 14.36,"two initial pristine BCC peaks, pristine peaks",BCC domains and glassy regions,BCC,0.8,7,3,8,coexistance BCC/FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_7_chn_num_3_linker_8,"",liquid,135,liquid,"","","","","",BCC,1.7,7,3,8,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_6,"",A20,135,A20,chain links,yes,coord num 8,pristine peaks,lattice points are connected by chain links of the small particles,FCC,0.7,4,3,6,A20
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_7_chn_num_3_linker_8,"",liquid,135,liquid,"","","","","",FCC,1.7,7,3,8,liquid
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,135,BCT2a,pristine sublattice,"",triple coord num 16,"BCT peaks, triple peak",none,BCC,1.5,4,3,10,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,135,BCT2a polycrystal,pristine sublattice,"",triple coord num 16,"BCT peaks, triple peak","displaces lattice points, maybe onset of transition between BCT and BCC",BCC,1.6,4,3,10,BCT2a polycrystal
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_6,"",BCT,135,BCT2a-altcenter,ordered sublattice,"",triple coord num 16,"BCT peaks, triple peak",none,BCC,0.9,4,3,6,BCT2a-altcenter
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_6,"",BCC,135,BCC,very messy croses,"",double coord num 14,"BCC peaks, broad peaks",none,BCC,1.1,4,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_6,"",BCT,135,BCC,very messy croses,yes,double coord num 14,"BCC peaks, broad peaks",none,BCC,1.1,4,3,6,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.39_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a,neat sublattice,"",triple coord num 16,"BCT peaks, triple peak",none,BCC,1.39,4,3,8,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.37_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a,neat sublattice,"",triple coord num 16,"BCT peaks, triple peak",transforms by shearing from BCC to BCT at frame 41,BCC,1.37,4,3,8,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.38_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a,messy sublattice,"",triple coord num 16,"BCT peaks, triple peak",transforms by shearing from BCC to BCT at frame 20,BCC,1.38,4,3,8,BCT2a
@@ -163,8 +176,8 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_5_chn_num_3_linker
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_5_chn_num_3_linker_8,"",BCC,135,BCC,neat crosses,"",double coord num 14,"BCC peaks, pristine peaks",none,BCC,1,5,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,135,BCT2a,neat sublattice,"",triple coord num 16,"BCT peaks, triple peaks",none,BCC,1.4,4,3,10,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_6,"",BCC,135,BCC,very messy crosses,"",double coord num 14,"BCC peaks, broad peaks",none,BCC,1.4,4,3,6,BCC
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_6,"",BCC,135,BCC,very messy crosses,"",double coord num 14,"BCC peaks, broad peaks",none,BCC,1.3,4,3,6,BCC
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_6,"",BCC,135,BCC,very messy crosses,"",double coord num 14,"BCC peaks, broad peaks",none,BCC,1.2,4,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_6,"",BCC,135,BCC,very messy crosses,yes,double coord num 14,"BCC peaks, broad peaks",none,BCC,1.3,4,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_6,"",BCC,135,BCC,very messy crosses,yes,double coord num 14,"BCC peaks, broad peaks",none,BCC,1.2,4,3,6,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_10,"",BCT,135,BCT2a,neat sublattice,"",triple coord num 16,"BCT peaks, triple peaks",none,BCC,1.2,4,3,10,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.35_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a,neat sublattice,"",triple coord num 16,"BCT peaks, triple peaks",none,BCC,1.35,4,3,8,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.325_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a,neat sublattice,"",triple coord num 16,"BCT peaks, triple peaks",none,BCC,1.325,4,3,8,BCT2a
@@ -172,10 +185,13 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.375_eps_-70_EE_4_chn_num_3_link
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_8,"",BCC,135,BCC,very messy crosses,"",double coord num 14,"BCC peaks, very broad peaks",none,BCC,1.7,4,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_4_chn_num_3_linker_8,"",BCC,135,BCC,very messy crosses,"",double coord num 14,"BCC peaks, very broad peaks",none,BCC,1.6,4,3,8,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a polycrystal,messy sublattice,"",triple coord num 15.9,"BCT peaks, triple peaks",BCT domains that are mostly perpendicular to thier neighboring cell,BCC,1.1,4,3,8,BCT2a polycrystal
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_8,"",BCC,135,BCC,very messy crosses,"",double coord num 14,"BCC peaks, very broad peaks",none,BCC,1.4,4,3,8,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCC,very messy crosses,yes,double coord num 14,"BCC peaks, very broad peaks",none,BCC,1.4,4,3,8,BCT2a
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a-altcenter,neat sublattice,"",triple coord num 16,"BCT peaks, triple peaks",there could be four peaks instead of three,BCC,0.9,4,3,8,BCT2a-altcenter
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a coex,messy sublattice,yes,triple coord num 16,"BCT peaks, triple peaks","lines that separte the crystal in domains, BCT domains that are mostly perpendicular to thier neighboring cell",BCC,1,4,3,8,BCT2a polycrystal
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a coex,messy sublattice,yes,triple coord num 16,"BCT peaks, triple peaks","lines that separte the crystal in domains, BCT domains that are mostly perpendicular to thier neighboring cell",BCC,1,4,3,8,BCT2a-altcenter
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,BCT2a polycrystal,messy sublattice,"",triple coord num 16,"BCT peaks, triple peaks",kinetically trapped lattice points/regions,BCC,1.2,4,3,8,BCT2a polycrystal
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_8,"",BCT,135,jammed,homogenous,yes,double coord num 16.4,very broad peaks,becomes more crystal like over time,FCC,0.7,4,3,8,BCT2a-altcenter
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_8,"",A20,135,BCTsqrt(10/3)-altcenter,messy sublattice,yes,triple coord num 16,"BCT peaks, triple peaks","low diffusion, slow kinetics",FCC,1.5,3,3,8,A20
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_3_chn_num_3_linker_8,"",A20,135,BCTsqrt(10/3)-altcenter,messy sublattice,yes,triple coord num 16,"BCT peaks, triple peak","low diffusion, slow kinetics",FCC,1.4,3,3,8,A20
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_3_chn_num_3_linker_8,"",A20,135,A20,sublattice,yes,coord num 8,almost pristine peaks,some regions look kinetically trapped or disordered/rotated unit cells with global crystal,BCC,1.2,3,3,8,A20
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_8,"",A20,135,A20 polycrystal,sublattice,yes,coord num 8,almost pristine peaks,some regions look kinetically trapped or disordered/rotated unit cells with global crystal,BCC,0.9,3,3,8,A20 polycrystal
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_3_chn_num_3_linker_8,"",melted,135,melting,"","","",liquid,"",BCC,1.7,3,3,8,melting
@@ -200,10 +216,54 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_7_chn_num_3_linker
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_7_chn_num_3_linker_10,"",BCC/FCC coex.,138,jammed mixture,very neat crosses but jammed regions,yes,double coord num 13.3,almost pristine peaks,looks like jammed BCC,BCC,1.1,7,3,10,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_7_chn_num_3_linker_10,"",BCC/FCC coex.,125,coexistance BCC/FCC,"spatially dependent, neat crosses or hexes","",double coord num 13,almost pristine peaks,BCC + FCC(?),BCC,1.4,7,3,10,coexistance BCC/FCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_7_chn_num_3_linker_10,"",BCC/FCC coex.,133,coexistance BCC/FCC,"spatially dependent, neat crosses or hexes","",double coord num 12.66,almost pristine peaks,BCC + FCC(?),BCC,1.6,7,3,10,coexistance BCC/FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_7,"",BCT,386,SHa - polycrystal? - coex w cubic layer,"",yes,double coord num 8,almost pristine peaks but convoluted,mixture(?),BCC,0.7,4,3,7,BCT2a-altcenter
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_7,"",BCT,386,BCT2a-altcenter,neat,"",quadruple coord num 16,messy BCT peaks,deformed BCT (?),BCC,0.9,4,3,7,BCT2a-altcenter
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_8_chn_num_3_linker_10,"",melted,101,fluid,"","","",liuid like,"",BCC,1.7,8,3,10,fluid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_8_chn_num_3_linker_10,"",liquid,101,liquid,"","","",liuid like,"",BCC,1.7,8,3,10,liquid
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_4_chn_num_3_linker_6,"",BCT,136,BCT0.88a,"",yes,"",broad peaks,"",BCC,1,4,3,6,BCT2a-altcenter
 crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_3_chn_num_3_linker_4,"",BCC,327,BCC,"","","","","",FCC,0.8,3,3,4,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_4,"",melted,319,melting,"","","","","",FCC,1.1,3,3,4,melting
 crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_3_chn_num_3_linker_10,"",BCT,271,BCT2a,"","","","","",FCC,1.4,3,3,10,BCT2a
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_10,"",A20,275,jammed,"",yes,"","","",FCC,1.1,3,3,10,A20 polycrystal
 crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_3_chn_num_3_linker_4,"",BCT,344,BCTsqrt(2/3)a,"","","","","",FCC,0.5,3,3,4,BCTsqrt(2/3)a
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.4_eps_-70_EE_3_chn_num_3_linker_4,"",BCT,385,BCTsqrt(2/3)a,"","","","","",BCC,0.4,3,3,4,BCTsqrt(2/3)a
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_4,"",BCC,385,BCC,"","","","","",BCC,0.9,3,3,4,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_3_chn_num_3_linker_4,"",BCC,385,BCC,"","","","","",BCC,1,3,3,4,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_3_chn_num_3_linker_6,"",BCC,385,BCC,"","","","","",BCC,1.2,3,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_6,"",BCC,385,BCC,"","","","","",BCC,1.3,3,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_6,"",liquid,385,liquid,"","","","","",BCC,1.5,3,3,6,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_3_chn_num_3_linker_6,"",liquid,385,liquid,"","","","","",BCC,1.6,3,3,6,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.55_eps_-70_EE_3_chn_num_3_linker_8,"",liquid,386,liquid,"","","","","",BCC,1.55,3,3,8,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_3_chn_num_3_linker_10,"",A20,386,A20 polycrystal,"","","","","",BCC,1,3,3,10,A20 polycrystal
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_10,"",A20,386,A20,"","","","","",BCC,1.3,3,3,10,A20
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_10,"",BCT,386,BCT2a,"","","","","",BCC,1.5,3,3,10,BCT2a
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_3_chn_num_3_linker_10,"",A20,386,A20 polycrystal,"",yes,this might be a 4:1 A20 polycrystal; upon anneal goes to 3:1,"","",BCC,1.6,3,3,10,A20 polycrystal
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_4_chn_num_3_linker_6,"",BCC,387,BCC,"","","","","",BCC,1.6,4,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_6,"",liquid,387,liquid,"","","","","",BCC,1.7,4,3,6,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.8_eps_-70_EE_4_chn_num_3_linker_8,"",BCC,387,BCC,"","","","","",BCC,1.8,4,3,8,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_5_chn_num_3_linker_4,"",BCC,387,BCC,"","","","","",BCC,0.8,5,3,4,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_5_chn_num_3_linker_4,"",BCC,387,BCC,"","","","","",BCC,1,5,3,4,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_5_chn_num_3_linker_4,"",BCC,387,BCC,"","","","","",BCC,1.2,5,3,4,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_5_chn_num_3_linker_6,"",BCC,387,BCC,"","","","","",BCC,0.9,5,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_5_chn_num_3_linker_6,"",BCC,387,BCC,"","","","","",BCC,1.1,5,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_5_chn_num_3_linker_6,"",BCC,387,BCC,"","","","","",BCC,1.6,5,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.8_eps_-70_EE_5_chn_num_3_linker_8,"",BCC,287,BCC,"","","","","",BCC,1.8,5,3,8,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_5_chn_num_3_linker_10,"",BCC,198,BCC,"","","","","",BCC,1.7,5,3,10,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.9_eps_-70_EE_5_chn_num_3_linker_10,"",BCC,186,BCC,"","","","","",BCC,1.9,5,3,10,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_7_chn_num_3_linker_6,"",SC,249,SC,"","","","","",BCC,0.5,7,3,6,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_7_chn_num_3_linker_6,"",BCC,280,BCC,"","","","","",BCC,1.1,7,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_7_chn_num_3_linker_6,"",BCC,262,BCC,"","","","","",BCC,1.3,7,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_7_chn_num_3_linker_6,"",liquid,291,liquid,"","","","","",BCC,1.5,7,3,6,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_8_chn_num_3_linker_6,"",BCC,224,BCC,"","","","","",BCC,1.2,8,3,6,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_8_chn_num_3_linker_6,"",liquid,264,liquid,"","","","","",BCC,1.4,8,3,6,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.45_eps_-70_EE_9_chn_num_3_linker_8,"",FCC,143,FCC,"","","","","",BCC,1.45,9,3,8,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.25_eps_-70_EE_9_chn_num_3_linker_8,"",FCC,152,FCC,"","","","","",BCC,1.25,9,3,8,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_9_chn_num_3_linker_10,"",FCC,106,FCC,"","","","","",BCC,1.1,9,3,10,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_9_chn_num_3_linker_10,"",FCC,100,FCC,"","","","","",BCC,1.3,9,3,10,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_9_chn_num_3_linker_10,"",FCC,110,FCC,"","","","","",BCC,1.5,9,3,10,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_9_chn_num_3_linker_10,"",liquid,91,liquid,"","","","","",BCC,1.6,9,3,10,liquid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.15_eps_-70_EE_10_chn_num_3_linker_8,"",FCC,133,FCC,"","","","","",BCC,1.15,10,3,8,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.25_eps_-70_EE_10_chn_num_3_linker_8,"",FCC,128,FCC,"","","","","",BCC,1.25,10,3,8,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_10_chn_num_3_linker_10,"",FCC,92,FCC,"","","","","",BCC,1,10,3,10,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_10_chn_num_3_linker_10,"",FCC,86,FCC,"","","","","",BCC,1.2,10,3,10,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_10_chn_num_3_linker_10,"",melted,66,fluid,"","","","","",BCC,1.5,10,3,10,fluid
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_10_chn_num_3_linker_10,"",melted,219,fluid,"","","","","",BCC,1.6,10,3,10,fluid
