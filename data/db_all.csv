@@ -1,0 +1,588 @@
+run,detailed_lattice_code,final_lattice_code,kT,EE,linker,how_initialized
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.3,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.5,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_8_chn_num_3_linker_8,jammed,jammed,0.7,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_8_chn_num_3_linker_8,mixture,mixture,1,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.1,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_10_chn_num_3_linker_6,melted,melted,1.3,10,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1.3,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_12,BCTsqrt5a,BCT,1.3,4,12-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_7,BCC,BCC,1.3,4,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.3,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_10,compressed BCC,compr. BCC,1.3,5,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_5,BCC,BCC,1.3,5,5-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_6,BCC,BCC,1.3,5,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_7,BCC,BCC,1.3,5,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.3,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.3,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_12,BCC,BCC,1.3,6,12-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_4,melted,melted,1.3,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.3,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.3,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_10,FCC,FCC,1.3,8,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_4,melted,melted,1.3,8,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_6,BCC,BCC,1.3,8,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.3,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_9_chn_num_3_linker_7,mixture,mixture,1.3,9,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.3,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_12,BCTsqrt5a,BCT,1.5,4,12-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_6,BCC,BCC,1.5,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_7,BCC,BCC,1.5,4,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.5,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_10,BCC,BCC,1.5,5,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_12,compressed BCC,compr. BCC,1.5,5,12-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_5,BCC,BCC,1.5,5,5-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_6,BCC,BCC,1.5,5,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_7,BCC,BCC,1.5,5,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.5,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.5,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_12,BCC,BCC,1.5,6,12-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_10,FCC,FCC,1.5,8,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_6,melted,melted,1.5,8,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_8,coexistance FCC/HCP,coexistance FCC/HCP,1.5,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_9_chn_num_3_linker_8,melted,melted,1.5,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_0.3_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.3,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_0.5_eps_-70_EE_8_chn_num_3_linker_8,SC polycrystal,SC,0.5,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_0.7_eps_-70_EE_8_chn_num_3_linker_8,mixture SC/BCC/BCT,BCT,0.7,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_0.9_eps_-70_EE_8_chn_num_3_linker_8,jammed/glass,jammed/glass,0.9,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_10_chn_num_3_linker_10,FCC,FCC,1.1,10,10-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_10_chn_num_3_linker_6,melted,melted,1.1,10,6-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1.1,10,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_8_chn_num_3_linker_10,FCC,FCC,1.1,8,10-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_8_chn_num_3_linker_12,FCC,FCC,1.1,8,12-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_8_chn_num_3_linker_6,BCC,BCC,1.1,8,6-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_8_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.1,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_10_chn_num_3_linker_10,FCC,FCC,1.3,10,10-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_10_chn_num_3_linker_6,melted,melted,1.3,10,6-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1.3,10,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_8_chn_num_3_linker_10,FCC,FCC,1.3,8,10-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_8_chn_num_3_linker_12,FCC,FCC,1.3,8,12-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_8_chn_num_3_linker_6,BCC,BCC,1.3,8,6-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_8_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.3,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.5_eps_-70_EE_8_chn_num_3_linker_10,FCC,FCC,1.5,8,10-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.5_eps_-70_EE_8_chn_num_3_linker_12,mixture,mixture,1.5,8,12-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.5_eps_-70_EE_8_chn_num_3_linker_8,FCC,FCC,1.5,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_8,SC,SC,0.3,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.3_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.3,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_8,SC,SC,0.5,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.5,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,0.7,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_8_chn_num_3_linker_8,jammed,jammed,0.7,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,0.9,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_8_chn_num_3_linker_8,mixture,mixture,0.9,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.0_eps_-70_EE_8_chn_num_3_linker_8,mixture,mixture,1,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_10_chn_num_3_linker_6,melted,melted,1.1,10,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1.1,10,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_12_chn_num_3_linker_10,FCC with a lot of defects,FCC with a lot of defects,1.1,12,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_12_chn_num_3_linker_8,FCC,FCC,1.1,12,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.1,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_8,mixture,mixture,1.1,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_8_chn_num_3_linker_10,FCC,FCC,1.1,8,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_8_chn_num_3_linker_6,BCC,BCC,1.1,8,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_10_chn_num_3_linker_10,FCC,FCC,1.3,10,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_10_chn_num_3_linker_6,melted,melted,1.3,10,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_12_chn_num_3_linker_8,melted,melted,1.3,12,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_10,BCC polycrystal,BCC,1.3,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.3,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_10,FCC,FCC,1.3,8,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_6,"liquid/BCC
+","liquid/BCC
+",1.3,8,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.5,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.5,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_6,melted,melted,1.5,8,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_8,FCC,FCC,1.5,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.7,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.3_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.3,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.5_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.5,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.7_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.7,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.9_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.9,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.1_eps_-70_EE_10_chn_num_3_linker_8,melted,melted,1.1,10,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_8,A20,A20,1.1,3,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.1_eps_-70_EE_8_chn_num_3_linker_8,mixture: maybe lattice + liquid?,mixture: maybe lattice + liquid?,1.1,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.3_eps_-70_EE_10_chn_num_3_linker_8,melted,melted,1.3,10,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1.3,3,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_8,looks like between lattice and liquid,looks like between lattice and liquid,1.3,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.5_eps_-70_EE_8_chn_num_3_linker_8,melted,melted,1.5,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_8_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.2,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_8_chn_num_3_linker_7,messy no ID,messy no ID,1.3,8,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_8_chn_num_3_linker_8,FCC,FCC,1.4,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_8_chn_num_3_linker_8,melted,melted,1.6,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.2_eps_-70_EE_8_chn_num_3_linker_8,messy lattice no ID,messy lattice no ID,1.2,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.4_eps_-70_EE_8_chn_num_3_linker_8,FCC,FCC,1.4,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.6_eps_-70_EE_8_chn_num_3_linker_8,melted,melted,1.6,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_8_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.2,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_8_chn_num_3_linker_8,FCC,FCC,1.4,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.6_eps_-70_EE_8_chn_num_3_linker_8,melted,melted,1.6,8,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.4_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.4,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.6_eps_-70_EE_8_chn_num_3_linker_8,SC,SC,0.6,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.8_eps_-70_EE_8_chn_num_3_linker_8,mixture,mixture,0.8,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.0_eps_-70_EE_8_chn_num_3_linker_8,lattice no ID,lattice no ID,1,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_8,mixture (SC + something else),mixture (SC + something else),0.3,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.3,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.4_eps_-70_EE_6_chn_num_3_linker_8,mixture (SC + something else),mixture (SC + something else),0.4,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.4_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.4,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_8,coexistance SC/BCT-altcenter,BCT,0.5,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.5,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_8,Ad,Ad,0.6,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.6,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.75_eps_-70_EE_8_chn_num_3_linker_8,jammed,jammed,0.75,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_8,Ad,Ad,0.7,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_7_chn_num_3_linker_8,mixture,mixture,0.7,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.85_eps_-70_EE_8_chn_num_3_linker_8,mixture,mixture,0.85,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_8_chn_num_3_linker_8,no lattice ID,no lattice ID,0.8,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.95_eps_-70_EE_8_chn_num_3_linker_8,mixture,mixture,0.95,8,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.2,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.5,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.0_eps_-70_EE_8_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.1,7,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.1,9,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.2_eps_-70_EE_7_chn_num_3_linker_8,mixture,mixture,1.2,7,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.2_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.2,9,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.45_eps_-70_EE_8_chn_num_3_linker_8,FCC,FCC,1.45,8,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.4_eps_-70_EE_7_chn_num_3_linker_8,mixture,mixture,1.4,7,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.4_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.4,9,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.6_eps_-70_EE_9_chn_num_3_linker_8,melted,melted,1.6,9,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.3_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.3,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.4_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.4,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.5,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.6_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.6,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,0.7,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.0_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.1,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.2,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.2,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.4,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.5,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.25_eps_-70_EE_8_chn_num_3_linker_8,"mixture, SC and HEX ","mixture, SC and HEX ",0.25,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.4_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.4,7,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.4_eps_-70_EE_9_chn_num_3_linker_8,SC polycrystal,SC,0.4,9,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.6_eps_-70_EE_7_chn_num_3_linker_8,SC,SC,0.6,7,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.6_eps_-70_EE_9_chn_num_3_linker_8,SC polycrystal,SC,0.6,9,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.75_eps_-70_EE_8_chn_num_3_linker_8,mixture,mixture,0.75,8,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.8_eps_-70_EE_7_chn_num_3_linker_8,mixture,mixture,0.8,7,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.8_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,0.8,9,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.0_eps_-70_EE_7_chn_num_3_linker_8,mixture,mixture,1,7,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.0_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,1,9,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.65_eps_-70_EE_6_chn_num_3_linker_8,mixture,mixture,0.65,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,0.8,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,0.9,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.1,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.2,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.4,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.55_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.55,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.57_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.57,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.5,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.62_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.62,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.65_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.65,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.6,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.1_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.1,6,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.3_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.3,6,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.55_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.55,6,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.5_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.5,6,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.5_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.5,7,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCT_kT_1.65_eps_-70_EE_7_chn_num_3_linker_8,melted,melted,1.65,7,8-BCT,BCT
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_8,SC,SC,0.3,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.4_eps_-70_EE_6_chn_num_3_linker_8,SC,SC,0.4,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_8,BCT-altcenter striped,BCT,0.6,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_10_chn_num_3_linker_8,mixture,mixture,0.3,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_10_chn_num_3_linker_8,BCTsqrt6a,BCT,0.5,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.67_eps_-70_EE_6_chn_num_3_linker_8,Ad polycrystal,Ad,0.67,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_10_chn_num_3_linker_8,jammed,jammed,0.7,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.75_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,0.75,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.77_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,0.77,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_10_chn_num_3_linker_8,mixture,mixture,0.9,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1.2,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.341_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.341,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_10_chn_num_3_linker_8,melted,melted,1.4,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.67_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.67,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.69_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.69,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.7,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.71_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.71,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.72_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.72,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.73_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.73,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.74_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.74,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.75_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.75,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.77_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.77,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.78_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.78,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.79_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.79,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.8_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.8,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.81_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.81,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.82_eps_-70_EE_6_chn_num_3_linker_8,melted,melted,1.82,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.83_eps_-70_EE_6_chn_num_3_linker_8,melted,melted,1.83,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.832_eps_-70_EE_6_chn_num_3_linker_8,melted,melted,1.832,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.838_eps_-70_EE_6_chn_num_3_linker_8,melted,melted,1.838,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.84_eps_-70_EE_6_chn_num_3_linker_8,melted,melted,1.84,6,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.3_eps_-70_EE_10_chn_num_3_linker_8,mixture with no lattice ID,mixture with no lattice ID,0.3,10,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_10_chn_num_3_linker_8,jammed,jammed,0.5,10,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.0_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1,6,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.3_eps_-70_EE_10_chn_num_3_linker_8,BCTsqrt6a,BCT,0.3,10,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.5_eps_-70_EE_10_chn_num_3_linker_8,SC polycrystal,SC,0.5,10,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.7_eps_-70_EE_10_chn_num_3_linker_8,jammed,jammed,0.7,10,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_8,Ad,Ad,0.7,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.9_eps_-70_EE_10_chn_num_3_linker_8,jammed,jammed,0.9,10,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_8,SC,SC,0.9,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.0_eps_-70_EE_10_chn_num_3_linker_8,jammed,jammed,1,10,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.0_eps_-70_EE_6_chn_num_3_linker_8,SC,SC,1,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.1,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.15_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.15,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.2_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.2,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.25_eps_-70_EE_6_chn_num_3_linker_8,"mixture (maybe just missing AC), mostly BCC","mixture (maybe just missing AC), mostly BCC",1.25,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.3,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.5,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.7_eps_-70_EE_6_chn_num_3_linker_8,BCC,BCC,1.7,6,8-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.9_eps_-70_EE_6_chn_num_3_linker_10,melted,melted,1.9,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.7_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.7,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.5,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_10,BCC + crack,BCC + crack,1.5,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.3,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.3_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.3,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.1,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_10,"jammed, structured melted","jammed, structured melted",1.1,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_6,SC,SC,0.9,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_10,SC,SC,0.9,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_6,HEX,HEX,0.7,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.7,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_6,SC,SC,0.5,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_10,"jammed, structured matter","jammed, structured matter",0.5,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_6,maybe HEX,maybe HEX,0.3,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_10,SC,SC,0.3,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.85_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.85,6,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.85_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.85,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.8,6,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.8,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.75_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.75,6,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.75_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.75,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.74_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.74,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.72_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.72,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.70_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.7,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.67_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.67,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.65_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.65,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.63_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.63,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.61_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.61,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_6,"lattice no ID, mixture","lattice no ID, mixture",0.6,6,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.6,6,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.9_eps_-70_EE_6_chn_num_3_linker_10,melted,melted,1.9,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.7,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.5,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.1,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.9,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.9,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.85_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.85,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.85_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.85,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.8,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.8,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.75_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.75,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.75_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.75,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.74_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.74,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.73_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.73,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.72_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.72,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.71_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.71,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,0.7,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_10,HCP,HCP,0.7,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.67_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.67,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.65_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.65,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.63_eps_-70_EE_6_chn_num_3_linker_10,HCP,HCP,0.63,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.61_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,0.61,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_6,SC,SC,0.6,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_10,"mixture,maybe jammed","mixture,maybe jammed",0.6,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_6,SC,SC,0.5,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_10,"mixture, slabs of different lattices","mixture, slabs of different lattices",0.5,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_6,SC,SC,0.3,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_10,SC,SC,0.3,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.6,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.6,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.4_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.4,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.4_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.4,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.2_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.2,6,6-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_SC_kT_1.2_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.2,6,10-SC,SC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.1_eps_-70_EE_4_chn_num_3_linker_10,BCC,BCC,2.1,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.0_eps_-70_EE_4_chn_num_3_linker_10,BCC,BCC,2,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.95_eps_-70_EE_4_chn_num_3_linker_10,BCC,BCC,1.95,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.9_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.9,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.7,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.5,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.3,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.97_eps_-70_EE_6_chn_num_3_linker_10,melted,melted,1.97,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.95_eps_-70_EE_6_chn_num_3_linker_10,melted,melted,1.95,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.9_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.9,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.7,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.6,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.6,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.4,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.4,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1.2,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.2,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,1.1,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.1,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,0.9,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_10,Ad,Ad,0.9,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,0.7,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_10,Ad,Ad,0.7,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_6_chn_num_3_linker_4,BCTsqrt(2/3)a polycrystal,BCT,0.5,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_4_chn_num_3_linker_10,A20 polycrystal,A20,0.5,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_6_chn_num_3_linker_4,SH,SH,0.3,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.3_eps_-70_EE_4_chn_num_3_linker_10,SC,SC,0.3,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.75_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.75,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.85_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.85,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.8_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1.8,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.65_eps_-70_EE_6_chn_num_3_linker_6,melted,melted,1.65,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.28_eps_-70_EE_6_chn_num_3_linker_4,melted,melted,1.28,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.25_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,1.25,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.23_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,1.23,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,1.2,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_6_chn_num_3_linker_6,BCC,BCC,1,6,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,1,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_6_chn_num_3_linker_10,BCC,BCC,1,6,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_6_chn_num_3_linker_4,BCC,BCC,0.8,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_6_chn_num_3_linker_4,SH,SH,0.6,6,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_8,A20,A20,1.3,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1.3,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.3,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.3,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.3,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.3,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,1,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_9_chn_num_3_linker_8,HCP,HCP,0.8,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_9_chn_num_3_linker_8,BCTsqrt6a polycrystal,BCT,0.7,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.2,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,0.9,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.4,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.1,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,0.8,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_9_chn_num_3_linker_8,melted,melted,1.5,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,0.9,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_9_chn_num_3_linker_8,jammed condensed matter,jammed condensed matter,0.7,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,1,9,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_4_chn_num_3_linker_6,A20,A20,0.8,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_6,A20 polycrystal,A20,0.7,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.6,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.4,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,0.9,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.1,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,0.8,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_7_chn_num_3_linker_8,melted,melted,1.7,7,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1_eps_-70_EE_4_chn_num_3_linker_6,Ad,Ad,1,4,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_6,Ad,Ad,0.9,4,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_4_chn_num_3_linker_6,A20,A20,0.8,4,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_6,A20,A20,0.7,4,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_7_chn_num_3_linker_8,melted,melted,1.7,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.4,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.1,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,0.8,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,0.9,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.6_eps_-70_EE_7_chn_num_3_linker_8,coexistance BCC/FCC,BCC/FCC coex.,1.6,7,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.7,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.5,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_4_chn_num_3_linker_10,BCT2a polycrystal,BCT,1.6,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_5_chn_num_3_linker_8,"","",0.8,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_5_chn_num_3_linker_8,"","",0.7,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_6,Ad,Ad,0.9,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_6,BCT2a,BCT,1.1,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.39_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.39,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.37_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.37,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.38_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.38,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.7,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.36_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.36,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.6,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.4,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.2,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.1,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,0.9,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.6_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.6,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.4,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.5,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.4,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_10,BCT2a polycrystal,BCT,1.3,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.2,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.1,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,0.9,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_6,BCC,BCC,1.4,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_6,BCC,BCC,1.3,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_6,BCC,BCC,1.2,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_10,BCT2a,BCT,1.2,4,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.35_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.35,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.325_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.325,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.375_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.375,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_8,BCC,BCC,1.7,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_8,Ad polycrystal,Ad,0.7,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_8,BCC,BCC,1.7,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.6_eps_-70_EE_4_chn_num_3_linker_8,BCC,BCC,1.6,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_4_chn_num_3_linker_8,BCC,BCC,1.6,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_8,BCT2a polycrystal,BCT,1.1,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.4,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_8,Ad,Ad,0.9,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.5,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_4_chn_num_3_linker_8,Ad,Ad,1,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_8,BCT2a polycrystal,BCT,1.2,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_4_chn_num_3_linker_8,Ad,Ad,0.8,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.4,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1_eps_-70_EE_4_chn_num_3_linker_8,Ad,Ad,1,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_8,BCT2a polycrystal,BCT,1.1,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_8,Ad,Ad,0.9,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.2,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_4_chn_num_3_linker_8,Ad,Ad,0.8,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_8,Ad,Ad,0.7,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_3_chn_num_3_linker_8,melted,melted,1.7,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.6_eps_-70_EE_3_chn_num_3_linker_8,melted,melted,1.6,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_3_chn_num_3_linker_8,jammed,jammed,0.7,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1.2,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_3_chn_num_3_linker_8,jammed,jammed,0.8,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_8,A20,A20,1.5,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_3_chn_num_3_linker_8,A20,A20,1.4,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_8,A20,A20,1.1,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,0.9,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_3_chn_num_3_linker_8,A20,A20,1.2,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,0.9,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_3_chn_num_3_linker_8,SH polycrystal,SH,0.8,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_3_chn_num_3_linker_8,melted,melted,1.7,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_3_chn_num_3_linker_8,melted,melted,1.6,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1.5,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1.4,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_3_chn_num_3_linker_8,SH,SH,0.7,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1.1,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_3_chn_num_3_linker_8,A20 polycrystal,A20,1,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_12_chn_num_3_linker_4,structured liquid,structured liquid,0.9,12,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_12_chn_num_3_linker_6,almost crystalline,almost crystalline,0.9,12,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_12_chn_num_3_linker_8,almost crystalline,almost crystalline,0.9,12,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_3_chn_num_3_linker_6,A20,A20,0.5,3,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_3_chn_num_3_linker_6,A20,A20,0.8,3,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_6,BCT2a,BCT,1.1,3,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_3_chn_num_3_linker_6,BCC,BCC,1.4,3,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,0.9,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,1.1,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,1.4,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,1.6,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_7,Ad,Ad,0.7,4,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_7,Ad,Ad,0.9,4,7-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_8_chn_num_3_linker_10,jammed,jammed,0.8,8,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_8_chn_num_3_linker_10,melted,melted,1.7,8,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1_eps_-70_EE_4_chn_num_3_linker_6,Ad,Ad,1,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_3_chn_num_3_linker_4,BCC,BCC,0.8,3,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_4,melted,melted,1.1,3,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_3_chn_num_3_linker_10,A20,A20,1.4,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_10,A20,A20,1.1,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_3_chn_num_3_linker_10,jammed,jammed,0.8,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_3_chn_num_3_linker_10,A20 polycrystal,A20,0.5,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_3_chn_num_3_linker_8,jammed,jammed,0.5,3,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.5_eps_-70_EE_3_chn_num_3_linker_4,BCTsqrt(2/3)a,BCT,0.5,3,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.4_eps_-70_EE_3_chn_num_3_linker_4,BCTsqrt(2/3)a,BCT,0.4,3,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_3_chn_num_3_linker_4,BCTsqrt(3)a,BCT,0.6,3,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_3_chn_num_3_linker_4,BCTsqrt(3)a,BCT,0.7,3,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_4,BCC,BCC,0.9,3,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_3_chn_num_3_linker_4,BCC,BCC,1,3,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_6,jammed,jammed,0.9,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_6,jammed,jammed,1.1,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_3_chn_num_3_linker_6,BCC,BCC,1.2,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_6,BCC,BCC,1.3,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_6,melted,melted,1.5,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_3_chn_num_3_linker_6,melted,melted,1.6,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.55_eps_-70_EE_3_chn_num_3_linker_8,melted,melted,1.55,3,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_3_chn_num_3_linker_10,A20 polycrystal,A20,1,3,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_10,A20,A20,1.3,3,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_10,A20,A20,1.5,3,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_3_chn_num_3_linker_10,A20 polycrystal,A20,1.6,3,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_4_chn_num_3_linker_6,BCC,BCC,1.6,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_4_chn_num_3_linker_6,melted,melted,1.7,4,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.8_eps_-70_EE_4_chn_num_3_linker_8,BCC,BCC,1.8,4,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_5_chn_num_3_linker_4,BCC,BCC,0.8,5,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_5_chn_num_3_linker_4,BCC,BCC,1,5,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_5_chn_num_3_linker_4,BCC,BCC,1.2,5,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_5_chn_num_3_linker_6,BCC,BCC,0.9,5,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_5_chn_num_3_linker_6,BCC,BCC,1.1,5,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_5_chn_num_3_linker_6,BCC,BCC,1.6,5,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.8_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.8,5,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_5_chn_num_3_linker_10,BCC,BCC,1.7,5,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.9_eps_-70_EE_5_chn_num_3_linker_10,BCC,BCC,1.9,5,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_7_chn_num_3_linker_6,SC,SC,0.5,7,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_7_chn_num_3_linker_6,mixture,mixture,0.8,7,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_7_chn_num_3_linker_6,BCC,BCC,1.1,7,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_7_chn_num_3_linker_6,BCC,BCC,1.3,7,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_7_chn_num_3_linker_6,melted,melted,1.5,7,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,0.7,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,1.2,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,1.3,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.7_eps_-70_EE_7_chn_num_3_linker_10,coexistance BCC/FCC,BCC/FCC coex.,1.7,7,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_8_chn_num_3_linker_6,mixture,mixture,0.9,8,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_8_chn_num_3_linker_6,BCC,BCC,1.2,8,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.4_eps_-70_EE_8_chn_num_3_linker_6,melted,melted,1.4,8,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_9_chn_num_3_linker_6,don't know,don't know,0.9,9,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_9_chn_num_3_linker_6,don't know,don't know,1,9,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_9_chn_num_3_linker_6,don't know,don't know,1.1,9,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.05_eps_-70_EE_9_chn_num_3_linker_8,jammed,jammed,1.05,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.45_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.45,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.25_eps_-70_EE_9_chn_num_3_linker_8,FCC,FCC,1.25,9,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_9_chn_num_3_linker_10,FCC,FCC,1.1,9,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_9_chn_num_3_linker_10,FCC,FCC,1.3,9,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_9_chn_num_3_linker_10,FCC,FCC,1.5,9,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_9_chn_num_3_linker_10,melted,melted,1.6,9,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_10_chn_num_3_linker_6,mixture,mixture,0.8,10,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_10_chn_num_3_linker_6,mixture,mixture,0.9,10,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_10_chn_num_3_linker_6,not sure,not sure,1,10,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.15_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1.15,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.25_eps_-70_EE_10_chn_num_3_linker_8,FCC,FCC,1.25,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.35_eps_-70_EE_10_chn_num_3_linker_8,FCC polycrystal,FCC,1.35,10,8-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_10_chn_num_3_linker_10,FCC,FCC,1,10,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.2_eps_-70_EE_10_chn_num_3_linker_10,FCC,FCC,1.2,10,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_10_chn_num_3_linker_10,melted,melted,1.5,10,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.6_eps_-70_EE_10_chn_num_3_linker_10,melted,melted,1.6,10,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.6_eps_-70_EE_3_chn_num_3_linker_4,BCTsqrt(3)a,BCT,0.6,3,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_3_chn_num_3_linker_4,BCTsqrt(3)a,BCT,0.7,3,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_4,BCC,BCC,0.9,3,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.0_eps_-70_EE_3_chn_num_3_linker_4,BCC,BCC,1,3,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_3_chn_num_3_linker_6,polycrystal or mixture,polycrystal or mixture,1,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_3_chn_num_3_linker_4,mixture,mixture,0.5,3,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_3_chn_num_3_linker_4,BCC,BCC,1.1,3,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.5_eps_-70_EE_4_chn_num_3_linker_4,SH,SH,0.5,4,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_4_chn_num_3_linker_4,BCTsqrt(2/3)a,BCT,0.7,4,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.8_eps_-70_EE_4_chn_num_3_linker_4,BCC,BCC,0.8,4,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_4,BCC,BCC,0.9,4,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_4_chn_num_3_linker_4,BCC,BCC,1,4,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.1_eps_-70_EE_4_chn_num_3_linker_4,BCC,BCC,1.1,4,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.6_eps_-70_EE_4_chn_num_3_linker_4,BCTsqrt(2/3)a,BCT,0.6,4,4-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.0_eps_-70_EE_7_chn_num_3_linker_6,BCC,BCC,1,7,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_7_chn_num_3_linker_6,BCC,BCC,0.9,7,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.0_eps_-70_EE_8_chn_num_3_linker_6,BCC,BCC,1,8,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_7_chn_num_3_linker_6,jammed,jammed,0.7,7,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.6_eps_-70_EE_3_chn_num_3_linker_10,A20,A20,1.6,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_3_chn_num_3_linker_10,jammed,jammed,1.3,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_3_chn_num_3_linker_10,jammed,jammed,1.2,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.5_eps_-70_EE_3_chn_num_3_linker_10,A20,A20,1.5,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_A20_kT_1.4_eps_-70_EE_3_chn_num_3_linker_10,jammed,jammed,1.4,3,10-A20,A20
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.8_eps_-70_EE_4_chn_num_3_linker_4,BCC,BCC,0.8,4,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_4_chn_num_3_linker_4,BCC,BCC,0.9,4,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.8_eps_-70_EE_3_chn_num_3_linker_10,A20 (messy),A20 (messy),1.8,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.2_eps_-70_EE_4_chn_num_3_linker_10,BCC,BCC,2.2,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.9_eps_-70_EE_4_chn_num_3_linker_8,BCC,BCC,1.9,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.2_eps_-70_EE_4_chn_num_3_linker_4,BCC,BCC,1.2,4,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.0_eps_-70_EE_5_chn_num_3_linker_10,BCC,BCC,2,5,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.9_eps_-70_EE_5_chn_num_3_linker_8,BCC,BCC,1.9,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.7_eps_-70_EE_5_chn_num_3_linker_6,melted,melted,1.7,5,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_4,melted,melted,1.3,5,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_0.7_eps_-70_EE_3_chn_num_3_linker_6,A20/BCT,BCT,0.7,3,6-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.9_eps_-70_EE_3_chn_num_3_linker_10,coexistance A20/BCT,BCT,1.9,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.95_eps_-70_EE_3_chn_num_3_linker_10,melted,melted,1.95,3,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.3_eps_-70_EE_4_chn_num_3_linker_10,melted,melted,2.3,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.25_eps_-70_EE_4_chn_num_3_linker_10,melted,melted,2.25,4,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.95_eps_-70_EE_4_chn_num_3_linker_8,melted,melted,1.95,4,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_4,melted,melted,1.3,4,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.25_eps_-70_EE_4_chn_num_3_linker_4,melted,melted,1.25,4,4-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.1_eps_-70_EE_5_chn_num_3_linker_10,BCC,BCC,2.1,5,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.2_eps_-70_EE_5_chn_num_3_linker_10,melted,melted,2.2,5,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.9_eps_-70_EE_7_chn_num_3_linker_10,FCC,FCC,1.9,7,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.85_eps_-70_EE_7_chn_num_3_linker_10,FCC,FCC,1.85,7,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_2.0_eps_-70_EE_5_chn_num_3_linker_8,melted,melted,2,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.95_eps_-70_EE_5_chn_num_3_linker_8,melted,melted,1.95,5,8-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.95_eps_-70_EE_7_chn_num_3_linker_10,melted,melted,1.95,7,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.4_eps_-70_EE_4_chn_num_3_linker_6,BCC,BCC,1.4,4,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.7_eps_-70_EE_3_chn_num_3_linker_6,A20,A20,0.7,3,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.0_eps_-70_EE_3_chn_num_3_linker_6,A20,A20,1,3,6-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_10,"","",1.3,5,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_5_chn_num_3_linker_10,"","",0.9,5,10-FCC,FCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_FCC_kT_0.9_eps_-70_EE_3_chn_num_3_linker_6,A20,A20,0.9,3,6-FCC,FCC
