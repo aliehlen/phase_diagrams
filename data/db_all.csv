@@ -9,7 +9,7 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_10_chn_num_3_linke
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_12,BCTsqrt5a,BCT,1.3,4,12-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_7,BCC,BCC,1.3,4,7-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.3,4,8-BCC,BCC
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_10,compressed BCC,compr. BCC,1.3,5,10-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_10,129a,129a,1.3,5,10-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_5,BCC,BCC,1.3,5,5-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_6,BCC,BCC,1.3,5,6-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.3_eps_-70_EE_5_chn_num_3_linker_7,BCC,BCC,1.3,5,7-BCC,BCC
@@ -30,7 +30,7 @@ crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_7,BCC,BCC,1.5,4,7-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_4_chn_num_3_linker_8,BCT2a,BCT,1.5,4,8-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_10,BCC,BCC,1.5,5,10-BCC,BCC
-crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_12,compressed BCC,compr. BCC,1.5,5,12-BCC,BCC
+crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_12,129a,129a,1.5,5,12-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_5,BCC,BCC,1.5,5,5-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_6,BCC,BCC,1.5,5,6-BCC,BCC
 crystal_size_3_AC_5_BC_1.0_real_lattice_BCC_kT_1.5_eps_-70_EE_5_chn_num_3_linker_7,BCC,BCC,1.5,5,7-BCC,BCC
